@@ -1,6 +1,6 @@
 'use strict'
 
-# test if I am a string
+// test if I am a string
 let testTest = function(str){
   let myStringObj = { string: true, data: str };
   if (!str.length || !str.charAt(0)) {
